@@ -1,0 +1,4 @@
+abcabba
+
+def function(greeting):
+    print(greeting)

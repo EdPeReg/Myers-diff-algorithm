@@ -1,0 +1,7 @@
+cbabac
+
+def function(greeting: str) -> None:
+    print(greeting)
+
+cbabac
+abcabba
